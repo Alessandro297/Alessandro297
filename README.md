@@ -1,4 +1,4 @@
-### Hello world <img src="https://github.com/Alessandro297/Alessandro297/blob/main/wave.gif" width="40" height="40" />
+### Hello world <img src="https://github.com/Alessandro297/Alessandro297/blob/main/wave.gif" width="20" height="20" />
 
 <!--
 **Alessandro297/Alessandro297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

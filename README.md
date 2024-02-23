@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world ![Alt Text](https://https://github.com/Alessandro297/Alessandro297/edit/main/wave.gif)
 
 <!--
 **Alessandro297/Alessandro297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hello world!   <img src="https://github.com/Alessandro297/Alessandro297/blob/main/wave.gif" width="30" height="30" />
+### Hello world   <img src="https://github.com/Alessandro297/Alessandro297/blob/main/wave.gif" width="29" height="29" />
 
 - 👋 Hi, I'm Alessandro
 - 👀 I'm interested in AI and Software Engineering

@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Alessandro
 - 👀 I'm interested in AI and Software Engineering
-- 🌱 I graduated in Artificial Intelligence for Science and Technology Master's Degree Programme at Università di Milano Bicocca, Italy
+- 🌱 I graduated in Artificial Intelligence for Science and Technology (Master's Degree Programme) at Università di Milano Bicocca, Italy
 - 📫 Reach me at alessandro.piani16@gmail.com
 <!--
 **Alessandro297/Alessandro297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
